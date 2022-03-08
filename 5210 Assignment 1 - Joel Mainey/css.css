@@ -1,0 +1,63 @@
+/*
+COLOR PALETTE
+https://coolors.co/bfc3ba-a9aca9-60495a-3f3244-2f2235
+#BFC3BA - ash gray
+#A9ACA9 - silver chalice
+#90495A - eggplant
+#3F3244 - english violet
+#2F2235 - dark purple
+*/
+
+/* Global styles
+------------------------------------*/
+html {
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+  
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p, 
+code {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.content-wrap {
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+h3,
+h4 {
+    font-family:'Courier New', Courier, monospace;
+    margin-bottom: 0;
+}
+
+/* Header
+------------------------------------*/
+header {
+    background: #BFC3BA;
+}
+/* Body
+------------------------------------*/
+body {
+    background: #A9ACA9;
+}
